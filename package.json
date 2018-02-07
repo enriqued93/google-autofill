@@ -1,0 +1,12 @@
+{
+  "name": "google-autofill",
+  "version": "1.0.0",
+  "description": "This is a project for testing the Google Chrome AutoFill event (if exist).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "live-server src/index.html"
+  },
+  "author": "Enrique Díaz Romero",
+  "license": "UNLICENSED"
+}
